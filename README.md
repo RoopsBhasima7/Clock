@@ -30,6 +30,8 @@ Digital Clock/
 ├── style.css         # CSS styling
 └── README.md         # Project documentation
 ```
+### Preview Image
+![Digital Clock Preview](images/clock.png)
 
 ## 📄 License
 
