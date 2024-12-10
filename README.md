@@ -36,5 +36,3 @@ Digital Clock/
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you'd like help customizing the `README.md` further!
